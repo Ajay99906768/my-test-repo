@@ -1,4 +1,4 @@
-# my-test-repo
+Claim Endless's DIscord Builder role# my-test-repo
 This is my first commit
 This is my first commit and I am making my second commit.
 I hav
@@ -7,3 +7,4 @@ gm
 # file it in this and add it friend
 good afternoon friends
 Today is the second day 
+Claim Endless's DIscord Builder role
